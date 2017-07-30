@@ -3,4 +3,8 @@ bbb
 ccc
 ddd
 
+<<<<<<< HEAD
 0000000
+=======
+nnnnnn
+>>>>>>> new-branch3
